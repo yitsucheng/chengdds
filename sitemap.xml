@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://dev.chengdds.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="4.1.0" -->
-<!-- generated-on="May 8, 2020 5:53 pm" -->
+<!-- generated-on="May 28, 2020 12:02 am" -->
 <sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<sitemap>
 		<loc>https://dev.chengdds.com/sitemap-misc.xml</loc>
-		<lastmod>2020-05-04T23:35:16+00:00</lastmod>
+		<lastmod>2020-05-27T23:59:20+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://dev.chengdds.com/sitemap-pt-post-2020-04.xml</loc>
@@ -41,6 +41,10 @@
 		<lastmod>2017-09-26T03:02:36+00:00</lastmod>
 	</sitemap>
 	<sitemap>
+		<loc>https://dev.chengdds.com/sitemap-pt-page-2020-05.xml</loc>
+		<lastmod>2020-05-27T23:59:20+00:00</lastmod>
+	</sitemap>
+	<sitemap>
 		<loc>https://dev.chengdds.com/sitemap-pt-page-2020-04.xml</loc>
 		<lastmod>2020-05-04T23:35:16+00:00</lastmod>
 	</sitemap>
@@ -72,4 +76,4 @@
 		<loc>https://dev.chengdds.com/sitemap-pt-page-2015-08.xml</loc>
 		<lastmod>2017-04-14T19:07:02+00:00</lastmod>
 	</sitemap>
-</sitemapindex><!-- Request ID: c79845641718ed247ed9927945a777b8; Queries for sitemap: 5; Total queries: 45; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 24.5MB -->
+</sitemapindex><!-- Request ID: f8d9598673dd331ba3ce38eb9db89e53; Queries for sitemap: 5; Total queries: 45; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 4.5MB -->
