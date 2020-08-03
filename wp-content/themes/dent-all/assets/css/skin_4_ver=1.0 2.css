@@ -1,0 +1,467 @@
+body.site_skin_4 .button.square,
+body.site_skin_4 a.button.square,
+body.site_skin_4 .top_info_boxes .top_info_box.linked,
+body.site_skin_4 #footer .footer_widgets .tagcloud a:hover,
+body.site_skin_4 .testimonials_carousel .slick-slider .slick-slide .testimonial_wr:hover:before,
+body.site_skin_4 .testimonials ul li .testimonial_wr:hover:before,
+body.site_skin_4 .slick_nav .slick_prev:hover,
+body.site_skin_4 .slick_nav .slick_next:hover,
+body.site_skin_4 .ui-datepicker .ui-datepicker-calendar .ui-datepicker-today .ui-state-default,
+body.site_skin_4 .ui-datepicker .ui-datepicker-calendar .ui-state-default:hover,
+body.site_skin_4 .ui-datepicker .ui-datepicker-buttonpane button,
+body.site_skin_4 .pricing_list_wr .pricing_list_header .tabs li.active,
+body.site_skin_4 .pricing_list_wr .pricing_list_header .tabs li:hover,
+body.site_skin_4 .tparrows.main-slider-2 .tp-arr-iwrapper,
+body.site_skin_4 .title_box .post_details .post_categories li a,
+body.site_skin_4 .vc_separator.vc_sep_color_grey .vc_sep_holder:after,
+body.site_skin_4 blockquote strong:before,
+body.site_skin_4 .vc_general.vc_btn3.vc_btn3-color-primary,
+body.site_skin_4 .vc_general.vc_btn3.vc_btn3-color-primary.vc_btn3-style-flat,
+body.site_skin_4 .vc_general.vc_btn3.vc_btn3-color-primary.vc_btn3-style-outline:hover,
+body.site_skin_4 .vc_progress_bar .vc_single_bar.bar_blue .vc_bar,
+body.site_skin_4 .vc_tta-accordion.vc_tta-style-flat.vc_tta-color-blue .vc_tta-panel.vc_active .vc_tta-panel-heading .vc_tta-panel-title,
+body.site_skin_4 .vc_general.vc_cta3.vc_cta3-color-blue.vc_cta3-style-flat,
+body.site_skin_4 .wpb_content_element.vc_wp_tagcloud .tagcloud a:hover,
+body.site_skin_4 .wpb_content_element .widget_tag_cloud .tagcloud a:hover,
+body.site_skin_4 .right_widget.vc_wp_tagcloud .tagcloud a:hover,
+body.site_skin_4 .right_widget .widget_tag_cloud .tagcloud a:hover,
+body.site_skin_4 .default_widgets.vc_wp_tagcloud .tagcloud a:hover,
+body.site_skin_4 .default_widgets .widget_tag_cloud .tagcloud a:hover,
+body.site_skin_4 .icon_button a:hover,
+body.site_skin_4 .opening_hours .day .time_to_closing,
+body.site_skin_4 .posts_list article .post_bottom .post_details .post_categories li a,
+body.site_skin_4 ul.page-numbers li a.page-numbers:hover,
+body.site_skin_4 ul.page-numbers li span.page-numbers:hover,
+body.site_skin_4 .page-links > span:hover,
+body.site_skin_4 .page-links > a:hover,
+body.site_skin_4 .posts_grid article.post .post_thumbnail .post_categories li a,
+body.site_skin_4 .posts_grid article.post .post_bottom .post_details:before,
+body.site_skin_4 .single_post .post_bottom .tags a:hover,
+body.site_skin_4 #comments .comment-respond .form-submit input[type="submit"],
+body.site_skin_4 .service_posts_grid article .post_bottom:before,
+body.site_skin_4 .service_posts_icon article:nth-child(odd) .service_wr,
+body.site_skin_4 .main-slider.tparrows,
+body.site_skin_4 #frontend_customizer_button,
+body.site_skin_4 .select2-container--default .select2-results__option--highlighted[aria-selected],
+body.site_skin_4 #left_menu_toggle:hover button,
+body.site_skin_4 #left_menu_toggle:hover button:before,
+body.site_skin_4 #left_menu_toggle:hover button:after,
+body.site_skin_4 #left_menu_toggle.open button,
+body.site_skin_4 #left_menu_toggle.open button:before,
+body.site_skin_4 #left_menu_toggle.open button:after{
+    background-color: #FF304F;
+}
+
+body.site_skin_4 .base_background_color,
+body.site_skin_4 .base_background_color  .vc_column-inner,
+body.site_skin_4 .tp-bannertimer {
+    background-color: #FF304F !important;
+}
+
+body.site_skin_4 .top_bar .top_bar_left ul a:hover,
+body.site_skin_4 .top_bar .top_bar_right .search-form button:hover,
+body.site_skin_4 .top_bar .top_bar_right .top_bar_socials ul li a:hover,
+body.site_skin_4 .top_bar .top_bar_right #lang_sel > ul ul li a:hover,
+body.site_skin_4 .top_bar .top_bar_right #lang_sel > ul .lang_sel_sel:after,
+body.site_skin_4 .top_nav ul.top_nav_menu > li > a:hover,
+body.site_skin_4 .top_nav ul.top_nav_menu > li.current-menu-item > a,
+body.site_skin_4 .top_nav ul.top_nav_menu > li.current_page_item > a,
+body.site_skin_4 .top_nav ul.top_nav_menu > li.current-menu-parent > a,
+body.site_skin_4 .top_nav ul.top_nav_menu > li > ul li.current-menu-item > a,
+body.site_skin_4 .top_nav ul.top_nav_menu > li > ul li.current-page-item > a,
+body.site_skin_4 .top_nav ul.top_nav_menu > li > ul li.menu-item-has-children:after,
+body.site_skin_4 .top_nav ul.top_nav_menu > li > ul ul li a:hover,
+body.site_skin_4 .top_nav ul.top_nav_menu > li.menu-item-has-children:after,
+body.site_skin_4 .top_info_boxes .top_info_box .icon,
+body.site_skin_4 #footer .footer_widgets .widget_search form .button:hover,
+body.site_skin_4 #footer .footer_widgets a,
+body.site_skin_4 #footer .copyright a,
+body.site_skin_4 .image_carousel.vertical .slick-vertical .slick-arrow:hover,
+body.site_skin_4 .slick_nav .slick_prev,
+body.site_skin_4 .slick_nav .slick_next,
+body.site_skin_4 .wpcf7-form .input-group .input-addon,
+body.site_skin_4 .ui-datepicker .ui-widget-header .ui-datepicker-next.ui-state-hover.ui-datepicker-next-hover,
+body.site_skin_4 .ui-datepicker .ui-widget-header .ui-datepicker-prev.ui-state-hover.ui-datepicker-prev-hover,
+body.site_skin_4 .left_nav .left_nav_wr .left_nav_menu li.menu-item-has-children > a:after,
+body.site_skin_4 .left_nav .left_nav_wr .left_nav_menu li:hover > a,
+body.site_skin_4 .wpb_text_column a,
+body.site_skin_4 .comment-body a,
+body.site_skin_4 .wpb_text_column table td a:hover,
+body.site_skin_4 .comment-body table td a:hover,
+body.site_skin_4 .title_box .breadcrumbs a:hover,
+body.site_skin_4 .title_box .post_details > * a:hover,
+body.site_skin_4 .title_box .post_details > * a:hover i,
+body.site_skin_4 .vc_general.vc_btn3.vc_btn3-color-white,
+body.site_skin_4 .vc_general.vc_btn3.vc_btn3-color-white.vc_btn3-style-flat,
+body.site_skin_4 .image_carousel.horizontal.type_1 .slick-arrow:hover,
+body.site_skin_4 .wpb_content_element .widget_title:before,
+body.site_skin_4 .right_widget .widget_title:before,
+body.site_skin_4 .default_widgets .widget_title:before,
+body.site_skin_4 .wpb_content_element .widget_search form .button:hover,
+body.site_skin_4 .right_widget .widget_search form .button:hover,
+body.site_skin_4 .default_widgets .widget_search form .button:hover,
+body.site_skin_4 .wpb_content_element.vc_wp_posts ul li a:hover,
+body.site_skin_4 .right_widget.vc_wp_posts ul li a:hover,
+body.site_skin_4 .default_widgets.vc_wp_posts ul li a:hover,
+body.site_skin_4 .wpb_content_element.vc_wp_pages ul li a:hover,
+body.site_skin_4 .wpb_content_element.vc_wp_categories ul li a:hover,
+body.site_skin_4 .wpb_content_element.vc_wp_custommenu ul li a:hover,
+body.site_skin_4 .wpb_content_element.widget_archive ul li a:hover,
+body.site_skin_4 .wpb_content_element.widget_categories ul li a:hover,
+body.site_skin_4 .wpb_content_element.widget_nav_menu ul li a:hover,
+body.site_skin_4 .wpb_content_element.widget_pages ul li a:hover,
+body.site_skin_4 .wpb_content_element.widget_meta ul li a:hover,
+body.site_skin_4 .wpb_content_element.widget_recent_comments ul li a:hover,
+body.site_skin_4 .wpb_content_element.widget_recent_entries ul li a:hover,
+body.site_skin_4 .wpb_content_element.widget_rss ul li a:hover,
+body.site_skin_4 .right_widget.vc_wp_pages ul li a:hover,
+body.site_skin_4 .right_widget.vc_wp_categories ul li a:hover,
+body.site_skin_4 .right_widget.vc_wp_custommenu ul li a:hover,
+body.site_skin_4 .right_widget.widget_archive ul li a:hover,
+body.site_skin_4 .right_widget.widget_categories ul li a:hover,
+body.site_skin_4 .right_widget.widget_nav_menu ul li a:hover,
+body.site_skin_4 .right_widget.widget_pages ul li a:hover,
+body.site_skin_4 .right_widget.widget_meta ul li a:hover,
+body.site_skin_4 .right_widget.widget_recent_comments ul li a:hover,
+body.site_skin_4 .right_widget.widget_recent_entries ul li a:hover,
+body.site_skin_4 .right_widget.widget_rss ul li a:hover,
+body.site_skin_4 .wpb_content_element.vc_wp_pages ul li.current_page_item,
+body.site_skin_4 .wpb_content_element.vc_wp_categories ul li.current_page_item,
+body.site_skin_4 .wpb_content_element.vc_wp_custommenu ul li.current_page_item,
+body.site_skin_4 .wpb_content_element.widget_archive ul li.current_page_item,
+body.site_skin_4 .wpb_content_element.widget_categories ul li.current_page_item,
+body.site_skin_4 .wpb_content_element.widget_nav_menu ul li.current_page_item,
+body.site_skin_4 .wpb_content_element.widget_pages ul li.current_page_item,
+body.site_skin_4 .wpb_content_element.widget_meta ul li.current_page_item,
+body.site_skin_4 .wpb_content_element.widget_recent_comments ul li.current_page_item,
+body.site_skin_4 .wpb_content_element.widget_recent_entries ul li.current_page_item,
+body.site_skin_4 .wpb_content_element.widget_rss ul li.current_page_item,
+body.site_skin_4 .right_widget.vc_wp_pages ul li.current_page_item,
+body.site_skin_4 .right_widget.vc_wp_categories ul li.current_page_item,
+body.site_skin_4 .right_widget.vc_wp_custommenu ul li.current_page_item,
+body.site_skin_4 .right_widget.widget_archive ul li.current_page_item,
+body.site_skin_4 .right_widget.widget_categories ul li.current_page_item,
+body.site_skin_4 .right_widget.widget_nav_menu ul li.current_page_item,
+body.site_skin_4 .right_widget.widget_pages ul li.current_page_item,
+body.site_skin_4 .right_widget.widget_meta ul li.current_page_item,
+body.site_skin_4 .right_widget.widget_recent_comments ul li.current_page_item,
+body.site_skin_4 .right_widget.widget_recent_entries ul li.current_page_item,
+body.site_skin_4 .right_widget.widget_rss ul li.current_page_item,
+body.site_skin_4 .wpb_content_element.vc_wp_pages ul li.current_page_item a,
+body.site_skin_4 .wpb_content_element.vc_wp_categories ul li.current_page_item a,
+body.site_skin_4 .wpb_content_element.vc_wp_custommenu ul li.current_page_item a,
+body.site_skin_4 .wpb_content_element.widget_archive ul li.current_page_item a,
+body.site_skin_4 .wpb_content_element.widget_categories ul li.current_page_item a,
+body.site_skin_4 .wpb_content_element.widget_nav_menu ul li.current_page_item a,
+body.site_skin_4 .wpb_content_element.widget_pages ul li.current_page_item a,
+body.site_skin_4 .wpb_content_element.widget_meta ul li.current_page_item a,
+body.site_skin_4 .wpb_content_element.widget_recent_comments ul li.current_page_item a,
+body.site_skin_4 .wpb_content_element.widget_recent_entries ul li.current_page_item a,
+body.site_skin_4 .wpb_content_element.widget_rss ul li.current_page_item a,
+body.site_skin_4 .right_widget.vc_wp_pages ul li.current_page_item a,
+body.site_skin_4 .right_widget.vc_wp_categories ul li.current_page_item a,
+body.site_skin_4 .right_widget.vc_wp_custommenu ul li.current_page_item a,
+body.site_skin_4 .right_widget.widget_archive ul li.current_page_item a,
+body.site_skin_4 .right_widget.widget_categories ul li.current_page_item a,
+body.site_skin_4 .right_widget.widget_nav_menu ul li.current_page_item a,
+body.site_skin_4 .right_widget.widget_pages ul li.current_page_item a,
+body.site_skin_4 .right_widget.widget_meta ul li.current_page_item a,
+body.site_skin_4 .right_widget.widget_recent_comments ul li.current_page_item a,
+body.site_skin_4 .right_widget.widget_recent_entries ul li.current_page_item a,
+body.site_skin_4 .right_widget.widget_rss ul li.current_page_item a,
+body.site_skin_4 .icon_button a .stm-icon,
+body.site_skin_4 .staff_list > ul > li .staff .staff_left .staff_socials a:hover,
+body.site_skin_4 .staff_popup .staff_header .staff_socials a:hover,
+body.site_skin_4 .posts_list article .post_bottom .post_details > * a:hover,
+body.site_skin_4 .posts_list article .post_bottom .post_details > * a:hover i,
+body.site_skin_4 .posts_list article .post_bottom h3 a:hover,
+body.site_skin_4 .posts_grid article.post .post_bottom .post_details .post_date strong,
+body.site_skin_4 .posts_grid article.post .post_bottom .post_text h5 a:hover,
+body.site_skin_4 .load_more_posts .fa-spin,
+body.site_skin_4 .single_post .post_bottom .socials > span > .stButton .stLarge:hover,
+body.site_skin_4 #comments .comment-list > li .comment-body .comment-meta .fn a:hover,
+body.site_skin_4 #comments .comment-list > li .comment-body .comment-meta .comment-reply-link:hover,
+body.site_skin_4 #comments .comment-list > li .comment-body .comment-meta .comment-edit-link:hover,
+body.site_skin_4 .vacancy_table_wr .vacancy_table tbody td a:hover,
+body.site_skin_4 .service_posts_grid article .post_bottom h5 a:hover,
+body.site_skin_4 .select2-container--default .select2-selection--single .select2-selection__arrow:before,
+body.site_skin_4.left_nav_mode .top_nav .search-form.active .button{
+    color: #FF304F;
+}
+
+body.site_skin_4 .button.square,
+body.site_skin_4 a.button.square,
+body.site_skin_4 .button.bordered,
+body.site_skin_4 a.button.bordered,
+body.site_skin_4 #footer .footer_widgets .tagcloud a:hover,
+body.site_skin_4 .testimonials_carousel .slick-slider .slick-slide .testimonial_wr:hover,
+body.site_skin_4 .testimonials_carousel .slick-slider .slick-slide .testimonial_wr:hover:before,
+body.site_skin_4 .testimonials ul li .testimonial_wr:hover,
+body.site_skin_4 .testimonials ul li .testimonial_wr:hover:before,
+body.site_skin_4 .slick_nav .slick_prev:hover,
+body.site_skin_4 .slick_nav .slick_next:hover,
+body.site_skin_4 .ui-datepicker .ui-datepicker-calendar .ui-datepicker-today .ui-state-default,
+body.site_skin_4 .ui-datepicker .ui-datepicker-calendar .ui-state-default:hover,
+body.site_skin_4 .ui-datepicker .ui-datepicker-buttonpane button,
+body.site_skin_4 .widget_contacts.style_3,
+body.site_skin_4 .vc_general.vc_btn3.vc_btn3-color-primary.vc_btn3-style-outline,
+body.site_skin_4 .vc_general.vc_btn3.vc_btn3-color-primary.vc_btn3-style-outline:hover,
+body.site_skin_4 .vc_tta-accordion.vc_tta-style-flat.vc_tta-color-blue .vc_tta-panel .vc_tta-panel-heading .vc_tta-panel-title > a i:before,
+body.site_skin_4 .vc_tta-accordion.vc_tta-style-flat.vc_tta-color-blue .vc_tta-panel .vc_tta-panel-heading .vc_tta-panel-title > a i:after,
+body.site_skin_4 .vc_tta-accordion.vc_tta-style-flat.vc_tta-color-blue .vc_tta-panel.vc_active .vc_tta-panel-heading .vc_tta-panel-title,
+body.site_skin_4 .wpb_content_element.vc_wp_tagcloud .tagcloud a:hover,
+body.site_skin_4 .wpb_content_element .widget_tag_cloud .tagcloud a:hover,
+body.site_skin_4 .right_widget.vc_wp_tagcloud .tagcloud a:hover,
+body.site_skin_4 .right_widget .widget_tag_cloud .tagcloud a:hover,
+body.site_skin_4 .default_widgets.vc_wp_tagcloud .tagcloud a:hover,
+body.site_skin_4 .default_widgets .widget_tag_cloud .tagcloud a:hover,
+body.site_skin_4 .icon_button a,
+body.site_skin_4 .opening_hours .day.today,
+body.site_skin_4 ul.page-numbers li a.page-numbers:hover,
+body.site_skin_4 ul.page-numbers li span.page-numbers:hover,
+body.site_skin_4 ul.page-numbers li span.page-numbers.current,
+body.site_skin_4 .page-links > span:hover,
+body.site_skin_4 .page-links > a:hover,
+body.site_skin_4 .page-links > span,
+body.site_skin_4 .single_post .post_bottom .tags a:hover,
+body.site_skin_4 #comments .comment-respond .form-submit input[type="submit"] {
+    border-color: #FF304F;
+}
+
+body.site_skin_4 .staff_list > ul > li,
+body.site_skin_4 .staff_list.grid > ul > li .staff,
+body.site_skin_4 .staff_popup {
+    border-top-color: #FF304F;
+}
+
+body.site_skin_4 #frontend_customizer_button:before {
+    border-right-color: #FF304F;
+}
+
+body.site_skin_4 .vc_tta-tabs.vc_tta-style-flat.vc_tta-color-blue .vc_tta-tabs-container .vc_tta-tab.vc_active,
+body.site_skin_4 .wpb_content_element .widget_title,
+body.site_skin_4 .right_widget .widget_title,
+body.site_skin_4 .default_widgets .widget_title {
+    border-bottom-color: #FF304F;
+}
+
+body.site_skin_4 .vc_tta-accordion.vc_tta-style-flat.vc_tta-color-blue .vc_tta-panel .vc_tta-panel-heading {
+    border-left-color: #FF304F;
+}
+
+body.site_skin_4 .button,
+body.site_skin_4 a.button,
+body.site_skin_4 .ui-datepicker .ui-datepicker-calendar .ui-datepicker-current-day .ui-state-default,
+body.site_skin_4 .vc_general.vc_btn3.vc_btn3-color-danger,
+body.site_skin_4 .vc_general.vc_btn3.vc_btn3-color-danger.vc_btn3-style-flat,
+body.site_skin_4 .flexslider .flex-control-nav li a.flex-active,
+body.site_skin_4 .ui-slider .ui-slider-handle,
+body.site_skin_4 .service_posts_icon article .service_wr,
+body.site_skin_4 .wpb_image_grid .wpb_image_grid_ul .isotope-item .prettyphoto:after,
+body.site_skin_4 .vacancy_table_wr .vacancy_table thead th.headerSortDown,
+body.site_skin_4 .vacancy_table_wr .vacancy_table thead th.headerSortUp {
+    background-color: #F1AD65;
+}
+
+body.site_skin_4 .secondary_background_color {
+    background-color: #F1AD65 !important;
+}
+
+body.site_skin_4 .testimonials_carousel .slick-slider .slick-slide .testimonial_wr:before,
+body.site_skin_4 .testimonials ul li .testimonial_wr:before,
+body.site_skin_4 .slick_nav.style_2 .slick_prev:hover,
+body.site_skin_4 .slick_nav.style_2 .slick_next:hover,
+body.site_skin_4 .wpb_text_column ul li:before,
+body.site_skin_4 .wpb_text_column ol li:before,
+body.site_skin_4 .comment-body ul li:before,
+body.site_skin_4 .comment-body ol li:before,
+body.site_skin_4 blockquote:before,
+body.site_skin_4 .opening_hours .day .icon,
+body.site_skin_4 #comments .comments-title span,
+body.site_skin_4 .flexslider .flex-direction-nav a {
+    color: #F1AD65;
+}
+
+body.site_skin_4 .button,
+body.site_skin_4 a.button,
+body.site_skin_4 .ui-datepicker .ui-datepicker-calendar .ui-datepicker-current-day .ui-state-default,
+body.site_skin_4 .vc_general.vc_btn3.vc_btn3-color-danger.vc_btn3-style-outline,
+body.site_skin_4 .opening_hours .day.output,
+body.site_skin_4 .flexslider .flex-control-nav li a,
+body.site_skin_4 .vacancy_table_wr .vacancy_table thead th.headerSortUp,
+body.site_skin_4 .vacancy_table_wr .vacancy_table thead th.headerSortDown {
+    border-color: #F1AD65;
+}
+
+body.site_skin_4 .top_info_boxes .top_info_box.linked .icon,
+body.site_skin_4 .slick_nav .slick_prev:hover,
+body.site_skin_4 .slick_nav .slick_next:hover,
+body.site_skin_4 .slick_nav.style_2 .slick_prev,
+body.site_skin_4 .slick_nav.style_2 .slick_next,
+body.site_skin_4 #footer .footer_widgets a:hover,
+body.site_skin_4 #footer .copyright a:hover,
+body.site_skin_4 .icon_button a:hover,
+body.site_skin_4 .icon_button a:hover .stm-icon,
+body.site_skin_4 .vc_tta-accordion.vc_tta-style-flat.vc_tta-color-blue .vc_tta-panel.vc_active .vc_tta-panel-heading .vc_tta-panel-title a,
+body.site_skin_4 .posts_list article .post_bottom .post_details .post_categories li a,
+body.site_skin_4 .title_box .post_details .post_categories li a {
+    color: #fff;
+}
+
+body.site_skin_4 .slick_nav.style_2 .slick_prev:hover,
+body.site_skin_4 .slick_nav.style_2 .slick_next:hover,
+body.site_skin_4 .vc_tta-accordion.vc_tta-style-flat.vc_tta-color-blue .vc_tta-panel.vc_active .vc_tta-panel-heading .vc_tta-panel-title a i:before,
+body.site_skin_4 .vc_tta-accordion.vc_tta-style-flat.vc_tta-color-blue .vc_tta-panel.vc_active .vc_tta-panel-heading .vc_tta-panel-title a i:after {
+    border-color: #fff;
+}
+
+body.site_skin_4 .slick_nav.style_2 .slick_prev:hover,
+body.site_skin_4 .slick_nav.style_2 .slick_next:hover {
+    background-color: #fff;
+}
+
+body.site_skin_4 .button.bordered,
+body.site_skin_4 a.button.bordered {
+    background-color: transparent;
+}
+
+body.site_skin_4 .service_posts_icon article:nth-child(4n-2) .service_wr {
+    background: #4C6575;
+}
+
+body.site_skin_4 .button:hover,
+body.site_skin_4 a.button:hover {
+    background-color: #FFD2A2;
+    border-color: #FFD2A2;
+}
+
+body.site_skin_4 .vc_general.vc_btn3.vc_btn3-color-danger:hover,
+body.site_skin_4 .vc_general.vc_btn3.vc_btn3-color-danger.vc_btn3-style-flat:hover {
+    background-color: #FFD2A2;
+    border-color: #FFD2A2;
+}
+
+body.site_skin_4 .vc_general.vc_btn3.vc_btn3-color-danger:active,
+body.site_skin_4 .vc_general.vc_btn3.vc_btn3-color-danger.vc_btn3-style-flat:active {
+    background-color: #DA9347;
+    border-color: #DA9347;
+}
+
+body.site_skin_4 .vc_general.vc_btn3.vc_btn3-color-danger.vc_btn3-style-outline {
+    background: transparent;
+    border-color: #F1AD65;
+}
+
+body.site_skin_4 .vc_general.vc_btn3.vc_btn3-color-danger.vc_btn3-style-outline:hover {
+    background-color: #FFD2A2;
+    border-color: #FFD2A2;
+}
+
+body.site_skin_4 .vc_general.vc_btn3.vc_btn3-color-danger.vc_btn3-style-outline:active {
+    background-color: #DA9347;
+    border-color: #DA9347;
+}
+
+body.site_skin_4 .vc_general.vc_btn3.vc_btn3-color-primary:hover,
+body.site_skin_4 .vc_general.vc_btn3.vc_btn3-color-primary.vc_btn3-style-flat:hover {
+    background-color: #FF6F84;
+    border-color: #FF6F84;
+}
+
+body.site_skin_4 .vc_general.vc_btn3.vc_btn3-color-primary:active,
+body.site_skin_4 .vc_general.vc_btn3.vc_btn3-color-primary.vc_btn3-style-flat:active {
+    background-color: #D8203C;
+    border-color: #D8203C;
+}
+
+body.site_skin_4 .vc_general.vc_btn3.vc_btn3-color-primary.vc_btn3-style-outline {
+    background: transparent;
+}
+
+body.site_skin_4 .vc_general.vc_btn3.vc_btn3-color-primary.vc_btn3-style-outline:hover {
+    background-color: #FF6F84;
+    border-color: #FF6F84;
+}
+
+body.site_skin_4 .vc_general.vc_btn3.vc_btn3-color-primary.vc_btn3-style-outline:active {
+    background-color: #D8203C;
+    border-color: #D8203C;
+}
+
+body.site_skin_4 .button.bordered,
+body.site_skin_4 a.button.bordered {
+    background: none;
+    color: #4C4C4C;
+}
+
+body.site_skin_4 .button.bordered:hover,
+body.site_skin_4 a.button.bordered:hover {
+    border-color: #FF6F84;
+}
+
+body.site_skin_4 .button.bordered:active,
+body.site_skin_4 a.button.bordered:active {
+    border-color: #D8203C;
+}
+
+body.site_skin_4 .wpb_content_element .widget_search form .button:hover,
+body.site_skin_4 .right_widget .widget_search form .button:hover,
+body.site_skin_4 .default_widgets .widget_search form .button:hover {
+    background: none;
+}
+
+body.site_skin_4 #comments .comment-respond .form-submit input[type="submit"]:hover {
+    background-color: #FF6F84;
+    border-color: #FF6F84;
+}
+
+body.site_skin_4 #comments .comment-respond .form-submit input[type="submit"]:active {
+    background-color: #D8203C;
+    border-color: #D8203C;
+}
+
+body.site_skin_4 .button.square:hover,
+body.site_skin_4 a.button.square:hover {
+    background: #FF6F84;
+    border-color: #FF6F84;
+}
+
+body.site_skin_4 .button.square:active,
+body.site_skin_4 a.button.square:active {
+    background-color: #D8203C;
+    border-color: #D8203C;
+}
+
+body.site_skin_4 .top_bar .top_bar_right .search-form button:hover {
+    background: none;
+}
+
+@media only screen and (max-width: 768px) {
+    body.site_skin_4 #menu_toggle button,
+    body.site_skin_4 #menu_toggle button:before,
+    body.site_skin_4 #menu_toggle button:after,
+    body.site_skin_4 .mobile_menu > ul > li{
+        background: #FF304F;
+    }
+    body.site_skin_4 .mobile_menu > ul > li{
+        border-bottom: 1px solid #FF6F84;
+    }
+    body.site_skin_4 .mobile_menu > ul > li.active{
+        background: #D8203C;
+        border-bottom: 1px solid #FF304F;
+    }
+    body.site_skin_4 .mobile_menu > ul ul{
+        background: #D8203C;
+        border-top: 1px solid #FF304F;
+    }
+}
+
+@media only screen and (max-width: 667px) {
+    body.site_skin_4 .mobile_search .search-form button:hover{
+        color: #FF304F;
+    }
+    body.site_skin_4 .vc_tta-color-blue.vc_tta-style-flat .vc_tta-panel.vc_active .vc_tta-panel-heading,
+    body.site_skin_4 .vc_tta-color-blue.vc_tta-style-flat .vc_tta-panel .vc_tta-panel-heading{
+        background: #FF304F !important;
+    }
+}
